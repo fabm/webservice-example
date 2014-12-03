@@ -1,0 +1,1 @@
+este é um módulo de demonstração de como zipar por exemplo properties
